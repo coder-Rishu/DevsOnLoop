@@ -1,0 +1,66 @@
+body {
+  font-family: 'Calibri', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #222;
+}
+
+.container {
+  width: 75%;
+  margin: 40px auto;
+  padding: 20px 40px;
+  line-height: 1.6;
+}
+
+header {
+  text-align: center;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 10px;
+}
+
+h1 {
+  color: #1a3dc2;
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.contact {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+}
+
+.contact a {
+  color: #1a3dc2;
+  text-decoration: none;
+}
+
+section {
+  margin-top: 30px;
+}
+
+h2 {
+  color: #1a3dc2;
+  border-bottom: 1px solid #1a3dc2;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 25px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+a {
+  color: #1a3dc2;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
